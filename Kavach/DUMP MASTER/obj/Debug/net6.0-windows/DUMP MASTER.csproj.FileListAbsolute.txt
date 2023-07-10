@@ -1,0 +1,18 @@
+E:\Visual studios\Projects\tr 1\DUMP MASTER\bin\Debug\net6.0-windows\DUMP MASTER.exe
+E:\Visual studios\Projects\tr 1\DUMP MASTER\bin\Debug\net6.0-windows\DUMP MASTER.deps.json
+E:\Visual studios\Projects\tr 1\DUMP MASTER\bin\Debug\net6.0-windows\DUMP MASTER.runtimeconfig.json
+E:\Visual studios\Projects\tr 1\DUMP MASTER\bin\Debug\net6.0-windows\DUMP MASTER.dll
+E:\Visual studios\Projects\tr 1\DUMP MASTER\bin\Debug\net6.0-windows\DUMP MASTER.pdb
+E:\Visual studios\Projects\tr 1\DUMP MASTER\obj\Debug\net6.0-windows\DUMP MASTER.csproj.AssemblyReference.cache
+E:\Visual studios\Projects\tr 1\DUMP MASTER\obj\Debug\net6.0-windows\DUMP_MASTER.Form1.resources
+E:\Visual studios\Projects\tr 1\DUMP MASTER\obj\Debug\net6.0-windows\DUMP_MASTER.Properties.Resources.resources
+E:\Visual studios\Projects\tr 1\DUMP MASTER\obj\Debug\net6.0-windows\DUMP MASTER.csproj.GenerateResource.cache
+E:\Visual studios\Projects\tr 1\DUMP MASTER\obj\Debug\net6.0-windows\DUMP MASTER.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual studios\Projects\tr 1\DUMP MASTER\obj\Debug\net6.0-windows\DUMP MASTER.AssemblyInfoInputs.cache
+E:\Visual studios\Projects\tr 1\DUMP MASTER\obj\Debug\net6.0-windows\DUMP MASTER.AssemblyInfo.cs
+E:\Visual studios\Projects\tr 1\DUMP MASTER\obj\Debug\net6.0-windows\DUMP MASTER.csproj.CoreCompileInputs.cache
+E:\Visual studios\Projects\tr 1\DUMP MASTER\obj\Debug\net6.0-windows\DUMP MASTER.dll
+E:\Visual studios\Projects\tr 1\DUMP MASTER\obj\Debug\net6.0-windows\refint\DUMP MASTER.dll
+E:\Visual studios\Projects\tr 1\DUMP MASTER\obj\Debug\net6.0-windows\DUMP MASTER.pdb
+E:\Visual studios\Projects\tr 1\DUMP MASTER\obj\Debug\net6.0-windows\DUMP MASTER.genruntimeconfig.cache
+E:\Visual studios\Projects\tr 1\DUMP MASTER\obj\Debug\net6.0-windows\ref\DUMP MASTER.dll

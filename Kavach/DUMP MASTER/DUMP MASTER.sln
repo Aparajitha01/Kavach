@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DUMP MASTER", "DUMP MASTER.csproj", "{62BADC08-B421-421C-90CD-2367B77789A3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DUMPMASTER", "..\DUMPMASTER\DUMPMASTER.vdproj", "{85120D60-19A5-490B-8C6B-589253BAC909}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62BADC08-B421-421C-90CD-2367B77789A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BADC08-B421-421C-90CD-2367B77789A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BADC08-B421-421C-90CD-2367B77789A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BADC08-B421-421C-90CD-2367B77789A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85120D60-19A5-490B-8C6B-589253BAC909}.Debug|Any CPU.ActiveCfg = Debug
+		{85120D60-19A5-490B-8C6B-589253BAC909}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D66126E-32EB-483B-A327-637C11418019}
+	EndGlobalSection
+EndGlobal
